@@ -1,0 +1,7 @@
+
+*.py
+U*
+kafka/data/
+kafka/clickhouse/
+kafka/grafana/
+connector_JdbcSinkConnectorConnector_0_config.json
